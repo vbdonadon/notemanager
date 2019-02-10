@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.fonts {
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul, li {
+  list-style: none;
+}
+
+.colletion-items {
+  margin-top: 20px;
+}
+
+.item:first-child{
+  border-top: 1px solid black;
+}
+
+.item {
+  padding: 8px;
+  border: 1px solid black;
+  border-top: none;
+}
+
+.login {
+  padding: 0px 20px;
+  color: #FFF;
+}
+
+.not-logged {
+  margin-top: 20px;
+}
+
+.added-by {
+  font-size: 12px;
+  color: lightsalmon;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
